@@ -1,7 +1,7 @@
 id = "org.standardnotes.advanced-markdown-editor"
 npm = "sn-advanced-markdown-editor"
 github = "standardnotes/markdown-pro"
-main = "index.html"
+main = "dist/index.html"
 name = "Advanced Markdown Editor"
 content_type = "SN|Component"
 area = "editor-editor"
